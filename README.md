@@ -1,4 +1,4 @@
-<img width="796" height="420" alt="image" src="https://github.com/user-attachments/assets/95946622-aa8a-458e-bbf0-379af646ea4c" /># Decentralized Insurance Protocol
+# Decentralized Insurance Protocol
 
 ## Project Description
 
